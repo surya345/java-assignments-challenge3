@@ -1,4 +1,4 @@
-## Boilerplate Repository - Challenge-4 - Temperature Converter
+## Boilerplate Repository - Challenge-3 - Temperature Converter
 
 ### Instructions
 Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
